@@ -2,7 +2,7 @@
 #### Mathias Stensrud
 A neural net enabled video project to read lips, anticipate bad words and put a stop to all that rudeness.
 
-## The project
+## The Project
 The AutoBleep is a program designed to bleep live video/audio, using video trained on a subjects face. The objective is for the program to detect the first part of a bad word though live video analysis, then play a loud sound before the word is finished, effectivly censoring the curse word in real time.
 
 ## The Tech
