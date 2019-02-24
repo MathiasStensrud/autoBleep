@@ -13,11 +13,11 @@ I wrote an assistant program to generate my dataset, which prompts a user with a
 ## The Terminology
 ### Haar Cascades
 Haar Cascades are sets of Haar-like features, which are very weak classifiers individually, but which can compute at incredible speed. These are sets of rectangles of various intensities that are compared together to predict features.
-Haar cascades were used in the first real time face detector, opeing up a new area of possibilites in computer vison and image classification. The main benefit is their very quick classification speed compares to almost any other image classifier. They have been integrated with OpenCV to a great deal, aiding in thier use. 
+Haar cascades were used in the first real time face detector, opeing up a new area of possibilites in computer vison and image classification. The main benefit is their very quick classification speed compares to almost any other image classifier. They have been integrated with OpenCV to a great deal, aiding in thier use.
 
 ### Recurrent Neural Networks and LSTM Layers
 God, this is the _fun_ stuff. Neural nets are seen as a bit of a 'black box' by a lot of people, and that also adds to their allure. While theyr are specially equipped to deal with certain problems, they are most definetly not an overall solution.
-One problem that they excel at is image classification. 
+One problem that they excel at is image classification.
 
 ### Neural Nets and Transfer Learning
 Training an accurate neural net generally takes a great deal of time, and also requires alarge amount of training data.
